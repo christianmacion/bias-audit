@@ -1,0 +1,14 @@
+{
+  "leaked_lag0_sharpe": 5.072,
+  "honest_lag1_sharpe": 0.59,
+  "phantom_alpha_sharpe": 4.482,
+  "centered_smoother_sharpe": -4.862,
+  "shift_test": {
+    "lag0": 5.072,
+    "lag1": 0.59,
+    "lag2": 0.685,
+    "lag3": 0.51,
+    "lag5": 0.615,
+    "lag10": 0.597
+  }
+}
